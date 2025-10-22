@@ -2,6 +2,8 @@ Team members :
 1. Parvathi Nalla 
 2. Bindhu sree reddy Alla
 
+Output Screenshots are uploaded
+
 Peer-to-Peer File Sharing System
 Overview
 This project implements a peer-to-peer file sharing system in Java. It consists of several Java classes that collectively enable peers to connect, communicate, and share files with one another. Below is a summary of the key components and functionalities implemented in this project:
